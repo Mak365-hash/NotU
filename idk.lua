@@ -1,0 +1,1 @@
+local module = require(id)('Thotcon')
